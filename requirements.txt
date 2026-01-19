@@ -1,0 +1,9 @@
+aiogram>=3.4
+aiohttp>=3.9
+aiofiles>=23.2
+magic-filter>=1.0
+pillow>=10.0
+python-dotenv>=1.0
+requests>=2.31
+asyncpg>=0.29
+geopy>=2.4
